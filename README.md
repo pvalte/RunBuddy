@@ -12,3 +12,5 @@ https://pvalte.github.io/RunBuddy/
 
 ## Contribution
 Made with ❤️ by Paige Altemare
+
+### ©️2019 Run Buddy, Inc 
